@@ -3,3 +3,8 @@ This is a version of EZ Baccarat written in plain JavaScript. Click the "About t
 A tutorial: https://www.caesars.com/casino-gaming-blog/latest-posts/table-games/baccarat/how-to-play-baccarat#.WysD-adKhPY
 
 Another link: http://www.bay101.com/Table-Games/How-to-Play-EZ-Baccarat
+
+## Contact
+- [Twitter](https://x.com/gamedevcarron)
+- [Telegram](https://t.me/gamedevcarron)
+- [Discord](https://discord.gg/gamedevcarron)
